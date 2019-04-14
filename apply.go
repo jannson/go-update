@@ -12,7 +12,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/jannson/osext"
+	"github.com/kardianos/osext"
 )
 
 var (
